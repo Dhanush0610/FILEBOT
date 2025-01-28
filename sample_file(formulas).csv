@@ -1,0 +1,21 @@
+﻿S.No,Headings,Formulas
+1,Sum of an Arithmetic Series,S = n(n + 1) / 2
+2,Sum of Squares in an Arithmetic Series,S = n(n + 1)(2n + 1) / 6
+3,Sum of Cubes in an Arithmetic Series,S = (n(n + 1) / 2)^2
+4,Sum of First n Odd Numbers,S = ný
+5,Sum of First n Even Numbers,S = n(n + 1)
+6,Permutations (nPr),nPr = n! / (n - r)!
+7,Combinations (nCr),nCr = n! / (r! * (n - r)!)
+8,Work Rate,Work Rate = Work / Time
+9,Distance,Distance = û((X2 - X1)ý + (Y2 - Y1)ý) 
+10,Speed,ÿDistance/Time
+11,Geometric Progression (GP),a_n = a_1 r^(n-1)
+12,Simple Interest (SI),SI = (P*R*T)/100
+13,Compound Interest (CI),A = P (1 + R/100)^T
+14,Sineÿ,sin(?) = opposite / hypotenuse
+15,Cosine,cos(?) = adjacent / hypotenuse
+16,Tangent,tan(?) = opposite / adjacent
+17,Equation of a Line,y = mx + c
+18,Gainÿ,Selling Price(S.P.) - Cost Price(C.P)
+19,Loss,C.P. - S.P.
+20,Amount,ÿPrincipal + Interest
